@@ -4,5 +4,5 @@
 
 <h3> requirement </h3>
 <p>
-- The question is asking is the graph created by the input a connected graph? If it is, is there a unique path or multiple path?
+- Is the graph a connected graph? If it is, is there a unique path or multiple path?
 </p>
