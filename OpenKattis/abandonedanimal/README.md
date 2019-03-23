@@ -5,4 +5,5 @@
 <h3> requirement </h3>
 <p>
 - Is the graph a connected graph? If it is, is there a unique path or multiple path?
+- the item is available ith store does not necessary mean that she bought the item at that store
 </p>
