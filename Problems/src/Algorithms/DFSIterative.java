@@ -49,11 +49,12 @@ public class DFSIterative{
 	}
 	public static ArrayList<Integer> dfs(Stack<Integer> s, boolean [] visited, int origin)
 	{
+		
 		ArrayList<Integer> answer = new ArrayList<>();
 		s.push(origin);
 		while (!s.isEmpty()) {
 			int v = s.pop();
-
+		
 			if (!visited[v]) {
 				visited[v] = true;
 				answer.add(v);
