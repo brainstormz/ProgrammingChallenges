@@ -1,4 +1,4 @@
-### Problems ###
+### Graph Traversal Problems ###
 
 ### TLE 
 * Problem: [Open Sprinkler](https://open.kattis.com/problems/comma) / Not solved TLE
