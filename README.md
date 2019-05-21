@@ -5,7 +5,7 @@
   * [Brainstorm](https://github.com/brainstormz/ProgrammingChallenges/wiki/Comma-Sprinkler) 
   * Language: Java
   * Keyword: [BFS](https://github.com/brainstormz/ProgrammingChallenges/wiki/Breadth-First-Search)
-* Problem: [Brexit](https://open.kattis.com/users/dong-jae-kim/submissions/brexit) / Not solved TLE
+* Problem: [Brexit](https://open.kattis.com/problems/brexit) / Not solved TLE
   * Language: Java
   * Keyword: [BFS](https://github.com/brainstormz/ProgrammingChallenges/wiki/Breadth-First-Search)
   
